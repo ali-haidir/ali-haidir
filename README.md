@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ali-haidir.github.io/hydir/](https://ali-haidir.github.io/hydir/)
 
-- 💬 Ask me about **Automation,React,Cloud**
+- 💬 Ask me about **Automation,Python,React,Cloud**
 
 - 📫 How to reach me **khalihaider8@gmail.com**
 
